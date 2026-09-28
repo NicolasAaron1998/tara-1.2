@@ -1,0 +1,7 @@
+body {
+	background-color: rgb(238, 244, 239);
+	background-image:
+		linear-gradient(rgba(23, 107, 85, 0.055) 1px, rgba(0, 0, 0, 0) 1px),
+		linear-gradient(90deg, rgba(23, 107, 85, 0.055) 1px, rgba(0, 0, 0, 0) 1px);
+	background-size: 28px 28px;
+}
